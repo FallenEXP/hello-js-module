@@ -8,8 +8,12 @@
 Says hello!
 
 ### Usage
+To Say Hello
 ```js
 const hello = require("hello-js-module");
 
 hello.hello();
+hello.hey();
+hello.helloWorld();
+hello.welcome();
 ```
