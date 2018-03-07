@@ -5,15 +5,22 @@
 [![GitHub issues](https://img.shields.io/github/issues/FallenEXP/hello-js-module.svg)](https://github.com/FallenEXP/hello-js-module/issues)
 
 
-Says hello!
+Says hello and goodbye!
 
 ### Usage
-To Say Hello
+To Say Things
 ```js
 const hello = require("hello-js-module");
+
 
 hello.hello();
 hello.hey();
 hello.helloWorld();
 hello.welcome();
+hello.hola();
+
+hello.bye();
+hello.goodbye();
+hello.farewell();
+hello.adios();
 ```
